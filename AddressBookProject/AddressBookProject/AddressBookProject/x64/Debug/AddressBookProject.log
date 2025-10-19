@@ -1,0 +1,27 @@
+﻿  AddressBookProject.cpp
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'AddressBookProject.cpp')
+  
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'AddressBookProject.cpp')
+  
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'AddressBookProject.cpp')
+  
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'AddressBookProject.cpp')
+  
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'AddressBookProject.cpp')
+  
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'AddressBookProject.cpp')
+  
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsInputValidate.h(119,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'AddressBookProject.cpp')
+  
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsInputValidate.h(123,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'AddressBookProject.cpp')
+  
+C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\AddressBookProject\clsContact.h(235,1): warning C4715: 'clsContact::Save': not all control paths return a value
+  AddressBookProject.vcxproj -> C:\Users\dell\Desktop\ProjectsGithub\AddressBookProject\AddressBookProject\x64\Debug\AddressBookProject.exe
